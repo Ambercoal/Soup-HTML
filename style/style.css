@@ -5,3 +5,7 @@
 .color {
     color: rgb(153, 153, 155);
 }
+
+.soup-link {
+    text-decoration: none;
+}
